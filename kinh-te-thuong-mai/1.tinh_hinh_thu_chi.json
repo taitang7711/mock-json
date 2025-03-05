@@ -1,0 +1,39 @@
+[{
+  "noi_dung_thu_chi": [
+    {
+      "loai": "Thu",
+      "noi_dung": "Thu từ thuế thu nhập cá nhân",
+      "gia_tri": 300000000000
+    },
+    {
+      "loai": "Thu",
+      "noi_dung": "Thu từ thuế doanh nghiệp",
+      "gia_tri": 500000000000
+    },
+    {
+      "loai": "Thu",
+      "noi_dung": "Thu từ thuế xuất nhập khẩu",
+      "gia_tri": 200000000000
+    },
+    {
+      "loai": "Chi",
+      "noi_dung": "Chi cho giáo dục và đào tạo",
+      "gia_tri": 350000000000
+    },
+    {
+      "loai": "Chi",
+      "noi_dung": "Chi cho y tế và an sinh xã hội",
+      "gia_tri": 250000000000
+    },
+    {
+      "loai": "Chi",
+      "noi_dung": "Chi cho cơ sở hạ tầng và giao thông",
+      "gia_tri": 400000000000
+    }
+  ],
+  "thu_chi_hang_nam": {
+    "nam": 2024,
+    "tong_thu_ngan_sach": 1500000000000,
+    "tong_chi_ngan_sach": 1400000000000
+  }
+}]

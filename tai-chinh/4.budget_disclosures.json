@@ -1,0 +1,16 @@
+[
+    {
+        "danh_sach_ngan_sach": "Ngân sách địa phương",
+        "thu_chi_ngan_sach": {
+            "thu_ngan_sach": "500 tỷ VND",
+            "chi_ngan_sach": "450 tỷ VND"
+        }
+    },
+    {
+        "danh_sach_ngan_sach": "Ngân sách cấp tỉnh",
+        "thu_chi_ngan_sach": {
+            "thu_ngan_sach": "1,000 tỷ VND",
+            "chi_ngan_sach": "900 tỷ VND"
+        }
+    }
+]

@@ -1,0 +1,24 @@
+[{
+  "so_giay_phep": "GP123456",
+  "ngay_cap": "2023-01-01",
+  "thoi_han": "2025-01-01",
+  "nguoi_ky": "Trần Văn B",
+  "phuong_tien": {
+    "bien_so_xe": "51A-12345",
+    "chu_phuong_tien": "Nguyễn Văn C",
+    "loai_xe": "Ô tô"
+  },
+  "thong_tin_chuyen_nganh_khac": "Thông tin bổ sung"
+},
+{
+  "so_giay_phep": "GP123457",
+  "ngay_cap": "2023-01-01",
+  "thoi_han": "2025-01-01",
+  "nguoi_ky": "Trần Văn B",
+  "phuong_tien": {
+    "bien_so_xe": "51A-12346",
+    "chu_phuong_tien": "Nguyễn Văn C",
+    "loai_xe": "Ô tô"
+  },
+  "thong_tin_chuyen_nganh_khac": "Thông tin bổ sung"
+}]

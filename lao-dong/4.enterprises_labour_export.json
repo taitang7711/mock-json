@@ -1,0 +1,26 @@
+[
+    {
+        "ten_doanh_nghiep": "Doanh nghiệp A",
+        "ma_so_thue": "123456789",
+        "huyen_thanh_pho": "Quận 1",
+        "dia_chi": "123 Đường A, Phường B",
+        "toa_do": {
+            "kinh_do": 106.700981,
+            "vi_do": 10.776889
+        },
+        "so_dien_thoai": "0123456789",
+        "nguoi_dai_dien_theo_phap_luat": "Nguyễn Văn A"
+    },
+    {
+        "ten_doanh_nghiep": "Doanh nghiệp B",
+        "ma_so_thue": "987654321",
+        "huyen_thanh_pho": "Quận 2",
+        "dia_chi": "456 Đường C, Phường D",
+        "toa_do": {
+            "kinh_do": 106.800981,
+            "vi_do": 10.876889
+        },
+        "so_dien_thoai": "0987654321",
+        "nguoi_dai_dien_theo_phap_luat": "Trần Thị B"
+    }
+]

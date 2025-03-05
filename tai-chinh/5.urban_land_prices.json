@@ -1,0 +1,40 @@
+[
+    {
+        "ten_duong": "Đường A",
+        "doan": "Đoạn 1",
+        "dat_o_vt1": "50,000,000 VND/m2",
+        "dat_o_vt2": "40,000,000 VND/m2",
+        "dat_o_vt3": "30,000,000 VND/m2",
+        "dat_o_vt4": "20,000,000 VND/m2",
+        "dat_o_vt5": "10,000,000 VND/m2",
+        "dat_tmdv_vt1": "60,000,000 VND/m2",
+        "dat_tmdv_vt2": "50,000,000 VND/m2",
+        "dat_tmdv_vt3": "40,000,000 VND/m2",
+        "dat_tmdv_vt4": "30,000,000 VND/m2",
+        "dat_tmdv_vt5": "20,000,000 VND/m2",
+        "dat_sx_kd_pnn_vt1": "70,000,000 VND/m2",
+        "dat_sx_kd_pnn_vt2": "60,000,000 VND/m2",
+        "dat_sx_kd_pnn_vt3": "50,000,000 VND/m2",
+        "dat_sx_kd_pnn_vt4": "40,000,000 VND/m2",
+        "dat_sx_kd_pnn_vt5": "30,000,000 VND/m2"
+    },
+    {
+        "ten_duong": "Đường B",
+        "doan": "Đoạn 2",
+        "dat_o_vt1": "55,000,000 VND/m2",
+        "dat_o_vt2": "45,000,000 VND/m2",
+        "dat_o_vt3": "35,000,000 VND/m2",
+        "dat_o_vt4": "25,000,000 VND/m2",
+        "dat_o_vt5": "15,000,000 VND/m2",
+        "dat_tmdv_vt1": "65,000,000 VND/m2",
+        "dat_tmdv_vt2": "55,000,000 VND/m2",
+        "dat_tmdv_vt3": "45,000,000 VND/m2",
+        "dat_tmdv_vt4": "35,000,000 VND/m2",
+        "dat_tmdv_vt5": "25,000,000 VND/m2",
+        "dat_sx_kd_pnn_vt1": "75,000,000 VND/m2",
+        "dat_sx_kd_pnn_vt2": "65,000,000 VND/m2",
+        "dat_sx_kd_pnn_vt3": "55,000,000 VND/m2",
+        "dat_sx_kd_pnn_vt4": "45,000,000 VND/m2",
+        "dat_sx_kd_pnn_vt5": "35,000,000 VND/m2"
+    }
+]

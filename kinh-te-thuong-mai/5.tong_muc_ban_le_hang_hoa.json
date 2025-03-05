@@ -1,0 +1,45 @@
+{
+    "tong_muc_ban_le_hang_hoa_va_dich_vu_tieu_dung": {
+      "doanh_thu_ban_le_hang_hoa": [
+        {
+          "nhom_hang_hoa": "Lương thực, thực phẩm",
+          "gia_tri": 500000000000
+        },
+        {
+          "nhom_hang_hoa": "Đồ uống",
+          "gia_tri": 200000000000
+        }
+      ],
+      "doanh_thu_dich_vu_luu_tru_va_an_uong": [
+        {
+          "loai_dich_vu": "Lưu trú",
+          "gia_tri": 150000000000
+        },
+        {
+          "loai_dich_vu": "Ăn uống",
+          "gia_tri": 250000000000
+        }
+      ],
+      "doanh_thu_lu_hanh_va_dich_vu_ho_tro_du_lich": [
+        {
+          "loai_dich_vu": "Lữ hành",
+          "gia_tri": 100000000000
+        },
+        {
+          "loai_dich_vu": "Dịch vụ hỗ trợ du lịch",
+          "gia_tri": 50000000000
+        }
+      ],
+      "doanh_thu_dich_vu_tieu_dung_khac": [
+        {
+          "loai_dich_vu": "Giáo dục",
+          "gia_tri": 300000000000
+        },
+        {
+          "loai_dich_vu": "Y tế",
+          "gia_tri": 200000000000
+        }
+      ]
+    }
+  }
+  

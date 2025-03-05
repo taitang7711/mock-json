@@ -1,0 +1,32 @@
+[
+  {
+    "loai_hinh_cong_trinh": "Công viên",
+    "cap_cong_trinh": "Cấp thành phố",
+    "dia_diem": "Quận 1, TP. Hồ Chí Minh",
+    "toa_do": {
+      "kinh_do": 106.700981,
+      "vi_do": 10.776889
+    },
+    "don_vi_quan_ly": "Sở Xây dựng TP. Hồ Chí Minh"
+  },
+  {
+    "loai_hinh_cong_trinh": "Nhà vệ sinh công cộng",
+    "cap_cong_trinh": "Cấp quận",
+    "dia_diem": "Quận 3, TP. Hồ Chí Minh",
+    "toa_do": {
+      "kinh_do": 106.700123,
+      "vi_do": 10.780456
+    },
+    "don_vi_quan_ly": "UBND Quận 3"
+  },
+  {
+    "loai_hinh_cong_trinh": "Địa điểm thể dục thể thao",
+    "cap_cong_trinh": "Cấp phường",
+    "dia_diem": "Phường 5, Quận 10, TP. Hồ Chí Minh",
+    "toa_do": {
+      "kinh_do": 106.695678,
+      "vi_do": 10.775432
+    },
+    "don_vi_quan_ly": "UBND Phường 5, Quận 10"
+  }
+]

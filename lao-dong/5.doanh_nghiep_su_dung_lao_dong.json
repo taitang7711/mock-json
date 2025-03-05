@@ -1,0 +1,26 @@
+[{
+  "ten_doanh_nghiep": "Công ty TNHH ABC",
+  "ma_so_thue": "123456789",
+  "huyen_thanh_pho": "Quận 1, TP. Hồ Chí Minh",
+  "dia_chi": "123 Đường ABC, Phường XYZ, Quận 1, TP. Hồ Chí Minh",
+  "toa_do": {
+    "kinh_do": 106.700981,
+    "vi_do": 10.776889
+  },
+  "so_dien_thoai": "+84 28 1234 5678",
+  "nguoi_dai_dien_theo_phap_luat": "Nguyễn Văn A",
+  "so_luong_lao_dong_nuoc_ngoai": 5
+},
+{
+  "ten_doanh_nghiep": "Công ty TNHH XYZ",
+  "ma_so_thue": "987654321",
+  "huyen_thanh_pho": "Quận 2, TP. Hồ Chí Minh",
+  "dia_chi": "456 Đường XYZ, Phường ABC, Quận 2, TP. Hồ Chí Minh",
+  "toa_do": {
+    "kinh_do": 106.715981,
+    "vi_do": 10.789123
+  },
+  "so_dien_thoai": "+84 28 8765 4321",
+  "nguoi_dai_dien_theo_phap_luat": "Trần Thị B",
+  "so_luong_lao_dong_nuoc_ngoai": 10
+}]
