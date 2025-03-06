@@ -1,12 +1,28 @@
 {
-  "so_giay_phep": "GP789012",
-  "ngay_cap": "2023-02-01",
-  "thoi_han": "2026-02-01",
-  "nguoi_ky": "Lê Văn D",
-  "cong_trinh": {
-    "ten_cong_trinh": "Cầu ABC",
-    "vi_tri_thi_cong": "Quận 2, TP. Hồ Chí Minh",
-    "don_vi_thi_cong": "Công ty Xây dựng XYZ"
-  },
-  "thong_tin_chuyen_nganh_khac": "Thông tin bổ sung"
+  "content": [
+    {
+      "so_giay_phep": "GP789012",
+      "ngay_cap": "2023-02-01",
+      "thoi_han": "2026-02-01",
+      "nguoi_ky": "Lê Văn D",
+      "cong_trinh": {
+        "ten_cong_trinh": "Cầu ABC",
+        "vi_tri_thi_cong": "Quận 2, TP. Hồ Chí Minh",
+        "don_vi_thi_cong": "Công ty Xây dựng XYZ"
+      },
+      "thong_tin_chuyen_nganh_khac": "Thông tin bổ sung"
+    },
+    {
+      "so_giay_phep": "GP789013",
+      "ngay_cap": "2023-02-01",
+      "thoi_han": "2026-02-01",
+      "nguoi_ky": "Lê Văn D",
+      "cong_trinh": {
+        "ten_cong_trinh": "Nhà máy ABC",
+        "vi_tri_thi_cong": "Quận 9, TP. Hồ Chí Minh",
+        "don_vi_thi_cong": "Công ty Xây dựng XYZ"
+      },
+      "thong_tin_chuyen_nganh_khac": "Thông tin bổ sung"
+    }
+  ]
 }

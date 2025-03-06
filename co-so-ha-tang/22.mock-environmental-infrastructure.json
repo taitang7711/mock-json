@@ -1,24 +1,26 @@
-[
 {
-  "ten_cong_trinh": "Nhà máy xử lý chất thải ABC",
-  "dia_diem": "Khu công nghiệp XYZ, TP. Hồ Chí Minh",
-  "quy_mo_cong_suat": "1000 tấn/năm",
-  "don_vi_van_hanh": "Công ty Môi trường DEF",
-  "tong_khoi_luong": 1000,
-  "khoi_luong_tu_xu_ly": 600,
-  "khoi_luong_thue_xu_ly": 400,
-  "cong_nghe_xu_ly": "Công nghệ đốt",
-  "don_vi_tiep_nhan_xu_ly": "Công ty Xử lý Chất thải GHI"
-},
-{
-  "ten_cong_trinh": "Nhà máy xử lý nước thải XYZ",
-  "dia_diem": "Khu công nghiệp KLM, TP. Hồ Chí Minh",
-  "quy_mo_cong_suat": "1000 m3/ngày",
-  "don_vi_van_hanh": "Công ty Môi trường NOP",
-  "tong_khoi_luong": 1000,
-  "khoi_luong_tu_xu_ly": 600,
-  "khoi_luong_thue_xu_ly": 400,
-  "cong_nghe_xu_ly": "Công nghệ sinh học",
-  "don_vi_tiep_nhan_xu_ly": "Công ty Xử lý Nước thải QRS"
+  "content": [
+    {
+      "ten_cong_trinh": "Nhà máy xử lý chất thải ABC",
+      "dia_diem": "Khu công nghiệp XYZ, TP. Hồ Chí Minh",
+      "quy_mo_cong_suat": "1000 tấn/năm",
+      "don_vi_van_hanh": "Công ty Môi trường DEF",
+      "tong_khoi_luong": 1000,
+      "khoi_luong_tu_xu_ly": 600,
+      "khoi_luong_thue_xu_ly": 400,
+      "cong_nghe_xu_ly": "Công nghệ đốt",
+      "don_vi_tiep_nhan_xu_ly": "Công ty Xử lý Chất thải GHI"
+    },
+    {
+      "ten_cong_trinh": "Nhà máy xử lý nước thải XYZ",
+      "dia_diem": "Khu công nghiệp KLM, TP. Hồ Chí Minh",
+      "quy_mo_cong_suat": "1000 m3/ngày",
+      "don_vi_van_hanh": "Công ty Môi trường NOP",
+      "tong_khoi_luong": 1000,
+      "khoi_luong_tu_xu_ly": 600,
+      "khoi_luong_thue_xu_ly": 400,
+      "cong_nghe_xu_ly": "Công nghệ sinh học",
+      "don_vi_tiep_nhan_xu_ly": "Công ty Xử lý Nước thải QRS"
+    }
+  ]
 }
-]
