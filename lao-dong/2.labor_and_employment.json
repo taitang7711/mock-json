@@ -1,21 +1,23 @@
-[{
-    "luc_luong_lao_dong_tu_15_tuoi_tro_len": 50000000,
-    "lao_dong_15_tuoi_tro_len_dang_lam_viec_trong_nen_kinh_te": 45000000,
-    "ty_le_lao_dong_da_qua_dao_tao": "60%",
-    "ty_le_lao_dong_phi_chinh_thuc": "30%",
-    "thu_nhap_nguoi_lam_cong_huong_luong": "10,000,000 VND/thang"
-},
 {
-    "luc_luong_lao_dong_tu_15_tuoi_tro_len": 50000000,
-    "lao_dong_15_tuoi_tro_len_dang_lam_viec_trong_nen_kinh_te": 45000000,
-    "ty_le_lao_dong_da_qua_dao_tao": "60%",
-    "ty_le_lao_dong_phi_chinh_thuc": "30%",
-    "thu_nhap_nguoi_lam_cong_huong_luong": "10,000,000 VND/thang"
-},
-{
-    "luc_luong_lao_dong_tu_15_tuoi_tro_len": 50000000,
-    "lao_dong_15_tuoi_tro_len_dang_lam_viec_trong_nen_kinh_te": 45000000,
-    "ty_le_lao_dong_da_qua_dao_tao": "60%",
-    "ty_le_lao_dong_phi_chinh_thuc": "30%",
-    "thu_nhap_nguoi_lam_cong_huong_luong": "10,000,000 VND/thang"
-}]
+    "content": [{
+        "luc_luong_lao_dong_tu_15_tuoi_tro_len": 50000000,
+        "lao_dong_15_tuoi_tro_len_dang_lam_viec_trong_nen_kinh_te": 45000000,
+        "ty_le_lao_dong_da_qua_dao_tao": "60%",
+        "ty_le_lao_dong_phi_chinh_thuc": "30%",
+        "thu_nhap_nguoi_lam_cong_huong_luong": "10,000,000 VND/thang"
+    },
+    {
+        "luc_luong_lao_dong_tu_15_tuoi_tro_len": 50000000,
+        "lao_dong_15_tuoi_tro_len_dang_lam_viec_trong_nen_kinh_te": 45000000,
+        "ty_le_lao_dong_da_qua_dao_tao": "60%",
+        "ty_le_lao_dong_phi_chinh_thuc": "30%",
+        "thu_nhap_nguoi_lam_cong_huong_luong": "10,000,000 VND/thang"
+    },
+    {
+        "luc_luong_lao_dong_tu_15_tuoi_tro_len": 50000000,
+        "lao_dong_15_tuoi_tro_len_dang_lam_viec_trong_nen_kinh_te": 45000000,
+        "ty_le_lao_dong_da_qua_dao_tao": "60%",
+        "ty_le_lao_dong_phi_chinh_thuc": "30%",
+        "thu_nhap_nguoi_lam_cong_huong_luong": "10,000,000 VND/thang"
+    }]    
+}

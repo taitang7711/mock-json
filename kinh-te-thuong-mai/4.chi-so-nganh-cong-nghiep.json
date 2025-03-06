@@ -1,34 +1,72 @@
 {
-  "chi_so_nganh_cong_nghiep_che_bien_che_tao": {
-    "chi_so_tieu_thu": [
-      {
-        "nganh": "San xuat che bien",
-        "gia_tri": 120.5
-      },
-      {
-        "nganh": "Khai khoang",
-        "gia_tri": 130.2
+  "content": [
+    {
+      "chi_so_nganh_cong_nghiep_che_bien_che_tao": {
+        "chi_so_tieu_thu": [
+          {
+            "nganh": "San xuat che bien",
+            "gia_tri": 120.5
+          },
+          {
+            "nganh": "Khai khoang",
+            "gia_tri": 130.2
+          }
+        ],
+        "chi_so_ton_kho": [
+          {
+            "nganh": "San xuat che bien",
+            "gia_tri": 85.3
+          },
+          {
+            "nganh": "Khai khoang",
+            "gia_tri": 90.1
+          }
+        ],
+        "chi_so_su_dung_lao_dong": [
+          {
+            "nganh": "San xuat che bien",
+            "gia_tri": 95.7
+          },
+          {
+            "nganh": "Khai khoang",
+            "gia_tri": 97.4
+          }
+        ]
       }
-    ],
-    "chi_so_ton_kho": [
-      {
-        "nganh": "San xuat che bien",
-        "gia_tri": 85.3
-      },
-      {
-        "nganh": "Khai khoang",
-        "gia_tri": 90.1
+    },
+    {
+      "chi_so_nganh_cong_nghiep_che_bien_che_tao": {
+        "chi_so_tieu_thu": [
+          {
+            "nganh": "San xuat che bien",
+            "gia_tri": 120.5
+          },
+          {
+            "nganh": "Khai khoang",
+            "gia_tri": 130.2
+          }
+        ],
+        "chi_so_ton_kho": [
+          {
+            "nganh": "San xuat che bien",
+            "gia_tri": 85.3
+          },
+          {
+            "nganh": "Khai khoang",
+            "gia_tri": 90.1
+          }
+        ],
+        "chi_so_su_dung_lao_dong": [
+          {
+            "nganh": "San xuat che bien",
+            "gia_tri": 95.7
+          },
+          {
+            "nganh": "Khai khoang",
+            "gia_tri": 97.4
+          }
+        ]
       }
-    ],
-    "chi_so_su_dung_lao_dong": [
-      {
-        "nganh": "San xuat che bien",
-        "gia_tri": 95.7
-      },
-      {
-        "nganh": "Khai khoang",
-        "gia_tri": 97.4
-      }
-    ]
-  }
+    }        
+  ]
 }

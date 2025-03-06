@@ -1,30 +1,32 @@
-[
-    {
-        "so_luong": 100,
-        "huyen_thanh_pho": "Quận 1",
-        "phuong_xa_thi_tran": "Phường A",
-        "danh_sach_ho_can_ngheo": [
-            "Hộ A",
-            "Hộ B"
-        ],
-        "chinh_sach_da_ho_tro": [
-            "Chính sách 1",
-            "Chính sách 2"
-        ],
-        "so_lao_dong_trong_ho": 4
-    },
-    {
-        "so_luong": 150,
-        "huyen_thanh_pho": "Quận 2",
-        "phuong_xa_thi_tran": "Phường B",
-        "danh_sach_ho_can_ngheo": [
-            "Hộ C",
-            "Hộ D"
-        ],
-        "chinh_sach_da_ho_tro": [
-            "Chính sách 3",
-            "Chính sách 4"
-        ],
-        "so_lao_dong_trong_ho": 3
-    }
-]
+{
+    "content": [
+        {
+            "so_luong": 100,
+            "huyen_thanh_pho": "Quận 1",
+            "phuong_xa_thi_tran": "Phường A",
+            "danh_sach_ho_can_ngheo": [
+                "Hộ A",
+                "Hộ B"
+            ],
+            "chinh_sach_da_ho_tro": [
+                "Chính sách 1",
+                "Chính sách 2"
+            ],
+            "so_lao_dong_trong_ho": 4
+        },
+        {
+            "so_luong": 150,
+            "huyen_thanh_pho": "Quận 2",
+            "phuong_xa_thi_tran": "Phường B",
+            "danh_sach_ho_can_ngheo": [
+                "Hộ C",
+                "Hộ D"
+            ],
+            "chinh_sach_da_ho_tro": [
+                "Chính sách 3",
+                "Chính sách 4"
+            ],
+            "so_lao_dong_trong_ho": 3
+        }
+    ]    
+}

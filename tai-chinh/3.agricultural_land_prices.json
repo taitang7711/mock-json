@@ -1,16 +1,18 @@
-[
-    {
-        "ten_loai_dat": "Đất trồng lúa",
-        "bang_gia_dat": {
-            "Khu vực 1": "1,000,000 VND/m2",
-            "Khu vực 2": "1,200,000 VND/m2"
+{
+    "content": [
+        {
+            "ten_loai_dat": "Đất trồng lúa",
+            "bang_gia_dat": {
+                "Khu vực 1": "1,000,000 VND/m2",
+                "Khu vực 2": "1,200,000 VND/m2"
+            }
+        },
+        {
+            "ten_loai_dat": "Đất trồng cây lâu năm",
+            "bang_gia_dat": {
+                "Khu vực 1": "800,000 VND/m2",
+                "Khu vực 2": "1,000,000 VND/m2"
+            }
         }
-    },
-    {
-        "ten_loai_dat": "Đất trồng cây lâu năm",
-        "bang_gia_dat": {
-            "Khu vực 1": "800,000 VND/m2",
-            "Khu vực 2": "1,000,000 VND/m2"
-        }
-    }
-]
+    ]    
+}

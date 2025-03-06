@@ -1,24 +1,26 @@
-[
-    {
-        "ten_doanh_nghiep": "Công ty A",
-        "ma_so_thue": "123456789",
-        "huyen_thanh_pho": "Quận 1",
-        "dia_chi": "123 Đường ABC, Quận 1, TP.HCM",
-        "toa_do": {
-            "kinh_do": 106.700981,
-            "vi_do": 10.776889
+{
+    "content": [
+        {
+            "ten_doanh_nghiep": "Công ty A",
+            "ma_so_thue": "123456789",
+            "huyen_thanh_pho": "Quận 1",
+            "dia_chi": "123 Đường ABC, Quận 1, TP.HCM",
+            "toa_do": {
+                "kinh_do": 106.700981,
+                "vi_do": 10.776889
+            },
+            "so_dien_thoai": "0123456789"
         },
-        "so_dien_thoai": "0123456789"
-    },
-    {
-        "ten_doanh_nghiep": "Công ty B",
-        "ma_so_thue": "987654321",
-        "huyen_thanh_pho": "Quận 2",
-        "dia_chi": "456 Đường XYZ, Quận 2, TP.HCM",
-        "toa_do": {
-            "kinh_do": 106.715981,
-            "vi_do": 10.789123
-        },
-        "so_dien_thoai": "0987654321"
-    }
-]
+        {
+            "ten_doanh_nghiep": "Công ty B",
+            "ma_so_thue": "987654321",
+            "huyen_thanh_pho": "Quận 2",
+            "dia_chi": "456 Đường XYZ, Quận 2, TP.HCM",
+            "toa_do": {
+                "kinh_do": 106.715981,
+                "vi_do": 10.789123
+            },
+            "so_dien_thoai": "0987654321"
+        }
+    ]    
+}

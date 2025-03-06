@@ -1,16 +1,18 @@
-[
-    {
-        "ten_du_an": "Dự án A",
-        "ten_chu_dau_tu": "Chủ đầu tư A",
-        "tong_muc_dau_tu": "100 tỷ VND",
-        "noi_dung_quy_mo_dau_tu": "Xây dựng cơ sở hạ tầng",
-        "tien_do_thuc_hien": "2023-2025"
-    },
-    {
-        "ten_du_an": "Dự án B",
-        "ten_chu_dau_tu": "Chủ đầu tư B",
-        "tong_muc_dau_tu": "200 tỷ VND",
-        "noi_dung_quy_mo_dau_tu": "Phát triển khu đô thị",
-        "tien_do_thuc_hien": "2024-2026"
-    }
-]
+{
+    "content": [
+        {
+            "ten_du_an": "Dự án A",
+            "ten_chu_dau_tu": "Chủ đầu tư A",
+            "tong_muc_dau_tu": "100 tỷ VND",
+            "noi_dung_quy_mo_dau_tu": "Xây dựng cơ sở hạ tầng",
+            "tien_do_thuc_hien": "2023-2025"
+        },
+        {
+            "ten_du_an": "Dự án B",
+            "ten_chu_dau_tu": "Chủ đầu tư B",
+            "tong_muc_dau_tu": "200 tỷ VND",
+            "noi_dung_quy_mo_dau_tu": "Phát triển khu đô thị",
+            "tien_do_thuc_hien": "2024-2026"
+        }
+    ]
+}

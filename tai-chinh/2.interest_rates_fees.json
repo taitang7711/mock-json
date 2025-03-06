@@ -1,24 +1,26 @@
-[
-    {
-        "ten_ngan_hang": "Ngân hàng A",
-        "cac_lai_xuat": {
-            "tien_gui_tiet_kiem": "5%/nam",
-            "tien_gui_ky_han": "6%/nam"
+{
+    "content": [
+        {
+            "ten_ngan_hang": "Ngân hàng A",
+            "cac_lai_xuat": {
+                "tien_gui_tiet_kiem": "5%/nam",
+                "tien_gui_ky_han": "6%/nam"
+            },
+            "cac_loai_phi": {
+                "phi_dich_vu": "100,000 VND/nam",
+                "phi_chuyen_khoan": "2,000 VND/giao_dich"
+            }
         },
-        "cac_loai_phi": {
-            "phi_dich_vu": "100,000 VND/nam",
-            "phi_chuyen_khoan": "2,000 VND/giao_dich"
+        {
+            "ten_ngan_hang": "Ngân hàng B",
+            "cac_lai_xuat": {
+                "tien_gui_tiet_kiem": "4.5%/nam",
+                "tien_gui_ky_han": "5.5%/nam"
+            },
+            "cac_loai_phi": {
+                "phi_dich_vu": "120,000 VND/nam",
+                "phi_chuyen_khoan": "1,500 VND/giao_dich"
+            }
         }
-    },
-    {
-        "ten_ngan_hang": "Ngân hàng B",
-        "cac_lai_xuat": {
-            "tien_gui_tiet_kiem": "4.5%/nam",
-            "tien_gui_ky_han": "5.5%/nam"
-        },
-        "cac_loai_phi": {
-            "phi_dich_vu": "120,000 VND/nam",
-            "phi_chuyen_khoan": "1,500 VND/giao_dich"
-        }
-    }
-]
+    ]    
+}

@@ -1,24 +1,52 @@
 {
-  "chi_so_san_xuat_cong_nghiep_IIP": {
-    "nganh_kinh_te_cap_I": [
-      {
-        "nganh": "San xuat che bien",
-        "gia_tri": 105.2
-      },
-      {
-        "nganh": "Khai khoang",
-        "gia_tri": 98.7
+  "content": [
+    {
+      "chi_so_san_xuat_cong_nghiep_IIP": {
+        "nganh_kinh_te_cap_I": [
+          {
+            "nganh": "San xuat che bien",
+            "gia_tri": 105.2
+          },
+          {
+            "nganh": "Khai khoang",
+            "gia_tri": 98.7
+          }
+        ],
+        "nganh_kinh_te_cap_II": [
+          {
+            "nganh": "San pham thuc pham",
+            "gia_tri": 110.3
+          },
+          {
+            "nganh": "Det may",
+            "gia_tri": 102.5
+          }
+        ]
       }
-    ],
-    "nganh_kinh_te_cap_II": [
-      {
-        "nganh": "San pham thuc pham",
-        "gia_tri": 110.3
-      },
-      {
-        "nganh": "Det may",
-        "gia_tri": 102.5
+    },
+    {
+      "chi_so_san_xuat_cong_nghiep_IIP": {
+        "nganh_kinh_te_cap_I": [
+          {
+            "nganh": "San xuat che bien",
+            "gia_tri": 105.2
+          },
+          {
+            "nganh": "Khai khoang",
+            "gia_tri": 98.7
+          }
+        ],
+        "nganh_kinh_te_cap_II": [
+          {
+            "nganh": "San pham thuc pham",
+            "gia_tri": 110.3
+          },
+          {
+            "nganh": "Det may",
+            "gia_tri": 102.5
+          }
+        ]
       }
-    ]
-  }
+    }
+  ]
 }
