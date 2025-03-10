@@ -5,9 +5,114 @@
             "MA_TP": 91,
             "QUAN_HUYEN": "Thành phố Rạch Giá",
             "MA_QH": 899,
+            "CAP_PHUONG_XA": "HUYEN"
+        },
+        {
+            "TINH_THANH_PHO": "Tỉnh Kiên Giang",
+            "MA_TP": 91,
+            "QUAN_HUYEN": "Thành phố Hà Tiên",
+            "MA_QH": 900,
+            "CAP_PHUONG_XA": "HUYEN"
+        },
+        {
+            "TINH_THANH_PHO": "Tỉnh Kiên Giang",
+            "MA_TP": 91,
+            "QUAN_HUYEN": "Thành phố Rạch Giá",
+            "MA_QH": 899,
+            "CAP_PHUONG_XA": "HUYEN"
+        },
+        {
+            "TINH_THANH_PHO": "Tỉnh Kiên Giang",
+            "MA_TP": 91,
+            "QUAN_HUYEN": "Huyện Kiên Lương",
+            "MA_QH": 902,
+            "CAP_PHUONG_XA": "HUYEN"
+        },
+        {
+            "TINH_THANH_PHO": "Tỉnh Kiên Giang",
+            "MA_TP": 91,
+            "QUAN_HUYEN": "Huyện Hòn Đất",
+            "MA_QH": 903,
+            "CAP_PHUONG_XA": "HUYEN"
+        },
+        {
+            "TINH_THANH_PHO": "Tỉnh Kiên Giang",
+            "MA_TP": 91,
+            "QUAN_HUYEN": "Huyện Tân Hiệp",
+            "MA_QH": 904,
+            "CAP_PHUONG_XA": "HUYEN"
+        },  
+        {
+            "TINH_THANH_PHO": "Tỉnh Kiên Giang",
+            "MA_TP": 91,
+            "QUAN_HUYEN": "Huyện Châu Thành",
+            "MA_QH": 905,
+            "CAP_PHUONG_XA": "HUYEN"
+        },
+        {
+            "TINH_THANH_PHO": "Tỉnh Kiên Giang",
+            "MA_TP": 91,
+            "QUAN_HUYEN": "Huyện Giồng Riềng",
+            "MA_QH": 906,
+            "CAP_PHUONG_XA": "HUYEN"
+        },
+        {
+            "TINH_THANH_PHO": "Tỉnh Kiên Giang",
+            "MA_TP": 91,
+            "QUAN_HUYEN": "Huyện An Biên",
+            "MA_QH": 908,
+            "CAP_PHUONG_XA": "HUYEN"
+        },
+        {
+            "TINH_THANH_PHO": "Tỉnh Kiên Giang",
+            "MA_TP": 91,
+            "QUAN_HUYEN": "Huyện An Minh",
+            "MA_QH": 909,
+            "CAP_PHUONG_XA": "HUYEN"
+        },
+        {
+            "TINH_THANH_PHO": "Tỉnh Kiên Giang",
+            "MA_TP": 91,
+            "QUAN_HUYEN": "Huyện Vĩnh Thuận",
+            "MA_QH": 910,
+            "CAP_PHUONG_XA": "HUYEN"
+        },
+        {
+            "TINH_THANH_PHO": "Tỉnh Kiên Giang",
+            "MA_TP": 91,
+            "QUAN_HUYEN": "Thành phố Phú Quốc",
+            "MA_QH": 911,
+            "CAP_PHUONG_XA": "HUYEN"
+        },
+        {
+            "TINH_THANH_PHO": "Tỉnh Kiên Giang",
+            "MA_TP": 91,
+            "QUAN_HUYEN": "Huyện Kiên Hải",
+            "MA_QH": 912,
+            "CAP_PHUONG_XA": "HUYEN"
+        },
+        {
+            "TINH_THANH_PHO": "Tỉnh Kiên Giang",
+            "MA_TP": 91,
+            "QUAN_HUYEN": "Huyện U Minh Thượng",
+            "MA_QH": 913,
+            "CAP_PHUONG_XA": "HUYEN"
+        },
+        {
+            "TINH_THANH_PHO": "Tỉnh Kiên Giang",
+            "MA_TP": 91,
+            "QUAN_HUYEN": "Huyện Giang Thành",
+            "MA_QH": 914,
+            "CAP_PHUONG_XA": "HUYEN"
+        },
+        {
+            "TINH_THANH_PHO": "Tỉnh Kiên Giang",
+            "MA_TP": 91,
+            "QUAN_HUYEN": "Thành phố Rạch Giá",
+            "MA_QH": 899,
             "PHUONG_XA": "Phường Vĩnh Thanh",
             "MA_PHUONG_XA": 30733,
-            "CAP_PHUONG_XA": "Phường"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -16,7 +121,7 @@
             "MA_QH": 899,
             "PHUONG_XA": "Phường Vĩnh Quang",
             "MA_PHUONG_XA": 30736,
-            "CAP_PHUONG_XA": "Phường"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -25,7 +130,7 @@
             "MA_QH": 899,
             "PHUONG_XA": "Phường Vĩnh Hiệp",
             "MA_PHUONG_XA": 30739,
-            "CAP_PHUONG_XA": "Phường"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -34,7 +139,7 @@
             "MA_QH": 899,
             "PHUONG_XA": "Phường Vĩnh Thanh Vân",
             "MA_PHUONG_XA": 30742,
-            "CAP_PHUONG_XA": "Phường"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -43,7 +148,7 @@
             "MA_QH": 899,
             "PHUONG_XA": "Phường Vĩnh Lạc",
             "MA_PHUONG_XA": 30745,
-            "CAP_PHUONG_XA": "Phường"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -52,7 +157,7 @@
             "MA_QH": 899,
             "PHUONG_XA": "Phường An Hòa",
             "MA_PHUONG_XA": 30748,
-            "CAP_PHUONG_XA": "Phường"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -61,7 +166,7 @@
             "MA_QH": 899,
             "PHUONG_XA": "Phường An Bình",
             "MA_PHUONG_XA": 30751,
-            "CAP_PHUONG_XA": "Phường"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -70,7 +175,7 @@
             "MA_QH": 899,
             "PHUONG_XA": "Phường Rạch Sỏi",
             "MA_PHUONG_XA": 30754,
-            "CAP_PHUONG_XA": "Phường"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -79,7 +184,7 @@
             "MA_QH": 899,
             "PHUONG_XA": "Phường Vĩnh Lợi",
             "MA_PHUONG_XA": 30757,
-            "CAP_PHUONG_XA": "Phường"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -88,7 +193,7 @@
             "MA_QH": 899,
             "PHUONG_XA": "Phường Vĩnh Thông",
             "MA_PHUONG_XA": 30760,
-            "CAP_PHUONG_XA": "Phường"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -97,7 +202,7 @@
             "MA_QH": 899,
             "PHUONG_XA": "Xã Phi Thông",
             "MA_PHUONG_XA": 30763,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -106,7 +211,7 @@
             "MA_QH": 900,
             "PHUONG_XA": "Phường Tô Châu",
             "MA_PHUONG_XA": 30766,
-            "CAP_PHUONG_XA": "Phường"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -115,7 +220,7 @@
             "MA_QH": 900,
             "PHUONG_XA": "Phường Đông Hồ",
             "MA_PHUONG_XA": 30769,
-            "CAP_PHUONG_XA": "Phường"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -124,7 +229,7 @@
             "MA_QH": 900,
             "PHUONG_XA": "Phường Bình San",
             "MA_PHUONG_XA": 30772,
-            "CAP_PHUONG_XA": "Phường"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -133,7 +238,7 @@
             "MA_QH": 900,
             "PHUONG_XA": "Phường Pháo Đài",
             "MA_PHUONG_XA": 30775,
-            "CAP_PHUONG_XA": "Phường"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -142,7 +247,7 @@
             "MA_QH": 900,
             "PHUONG_XA": "Phường Mỹ Đức",
             "MA_PHUONG_XA": 30778,
-            "CAP_PHUONG_XA": "Phường"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -151,7 +256,7 @@
             "MA_QH": 900,
             "PHUONG_XA": "Xã Tiên Hải",
             "MA_PHUONG_XA": 30781,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -160,7 +265,7 @@
             "MA_QH": 900,
             "PHUONG_XA": "Xã Thuận Yên",
             "MA_PHUONG_XA": 30784,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -178,7 +283,7 @@
             "MA_QH": 902,
             "PHUONG_XA": "Xã Kiên Bình",
             "MA_PHUONG_XA": 30790,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -187,7 +292,7 @@
             "MA_QH": 902,
             "PHUONG_XA": "Xã Hòa Điền",
             "MA_PHUONG_XA": 30802,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -196,7 +301,7 @@
             "MA_QH": 902,
             "PHUONG_XA": "Xã Dương Hòa",
             "MA_PHUONG_XA": 30805,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -205,7 +310,7 @@
             "MA_QH": 902,
             "PHUONG_XA": "Xã Bình An",
             "MA_PHUONG_XA": 30808,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -214,7 +319,7 @@
             "MA_QH": 902,
             "PHUONG_XA": "Xã Bình Trị",
             "MA_PHUONG_XA": 30809,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -223,7 +328,7 @@
             "MA_QH": 902,
             "PHUONG_XA": "Xã Sơn Hải",
             "MA_PHUONG_XA": 30811,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -232,7 +337,7 @@
             "MA_QH": 902,
             "PHUONG_XA": "Xã Hòn Nghệ",
             "MA_PHUONG_XA": 30814,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -259,7 +364,7 @@
             "MA_QH": 903,
             "PHUONG_XA": "Xã Bình Sơn",
             "MA_PHUONG_XA": 30823,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -268,7 +373,7 @@
             "MA_QH": 903,
             "PHUONG_XA": "Xã Bình Giang",
             "MA_PHUONG_XA": 30826,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -277,7 +382,7 @@
             "MA_QH": 903,
             "PHUONG_XA": "Xã Mỹ Thái",
             "MA_PHUONG_XA": 30828,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -286,7 +391,7 @@
             "MA_QH": 903,
             "PHUONG_XA": "Xã Nam Thái Sơn",
             "MA_PHUONG_XA": 30829,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -295,7 +400,7 @@
             "MA_QH": 903,
             "PHUONG_XA": "Xã Mỹ Hiệp Sơn",
             "MA_PHUONG_XA": 30832,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -304,7 +409,7 @@
             "MA_QH": 903,
             "PHUONG_XA": "Xã Sơn Kiên",
             "MA_PHUONG_XA": 30835,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -313,7 +418,7 @@
             "MA_QH": 903,
             "PHUONG_XA": "Xã Sơn Bình",
             "MA_PHUONG_XA": 30836,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -322,7 +427,7 @@
             "MA_QH": 903,
             "PHUONG_XA": "Xã Mỹ Thuận",
             "MA_PHUONG_XA": 30838,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -331,7 +436,7 @@
             "MA_QH": 903,
             "PHUONG_XA": "Xã Lình Huỳnh",
             "MA_PHUONG_XA": 30840,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -340,7 +445,7 @@
             "MA_QH": 903,
             "PHUONG_XA": "Xã Thổ Sơn",
             "MA_PHUONG_XA": 30841,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -349,7 +454,7 @@
             "MA_QH": 903,
             "PHUONG_XA": "Xã Mỹ Lâm",
             "MA_PHUONG_XA": 30844,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -358,7 +463,7 @@
             "MA_QH": 903,
             "PHUONG_XA": "Xã Mỹ Phước",
             "MA_PHUONG_XA": 30847,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -376,7 +481,7 @@
             "MA_QH": 904,
             "PHUONG_XA": "Xã Tân Hội",
             "MA_PHUONG_XA": 30853,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -385,7 +490,7 @@
             "MA_QH": 904,
             "PHUONG_XA": "Xã Tân Thành",
             "MA_PHUONG_XA": 30856,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -394,7 +499,7 @@
             "MA_QH": 904,
             "PHUONG_XA": "Xã Tân Hiệp B",
             "MA_PHUONG_XA": 30859,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -403,7 +508,7 @@
             "MA_QH": 904,
             "PHUONG_XA": "Xã Tân Hoà",
             "MA_PHUONG_XA": 30860,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -412,7 +517,7 @@
             "MA_QH": 904,
             "PHUONG_XA": "Xã Thạnh Đông B",
             "MA_PHUONG_XA": 30862,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -421,7 +526,7 @@
             "MA_QH": 904,
             "PHUONG_XA": "Xã Thạnh Đông",
             "MA_PHUONG_XA": 30865,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -430,7 +535,7 @@
             "MA_QH": 904,
             "PHUONG_XA": "Xã Tân Hiệp A",
             "MA_PHUONG_XA": 30868,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -439,7 +544,7 @@
             "MA_QH": 904,
             "PHUONG_XA": "Xã Tân An",
             "MA_PHUONG_XA": 30871,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -448,7 +553,7 @@
             "MA_QH": 904,
             "PHUONG_XA": "Xã Thạnh Đông A",
             "MA_PHUONG_XA": 30874,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -457,7 +562,7 @@
             "MA_QH": 904,
             "PHUONG_XA": "Xã Thạnh Trị",
             "MA_PHUONG_XA": 30877,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -475,7 +580,7 @@
             "MA_QH": 905,
             "PHUONG_XA": "Xã Mong Thọ A",
             "MA_PHUONG_XA": 30883,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -484,7 +589,7 @@
             "MA_QH": 905,
             "PHUONG_XA": "Xã Mong Thọ B",
             "MA_PHUONG_XA": 30886,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -493,7 +598,7 @@
             "MA_QH": 905,
             "PHUONG_XA": "Xã Mong Thọ",
             "MA_PHUONG_XA": 30887,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -502,7 +607,7 @@
             "MA_QH": 905,
             "PHUONG_XA": "Xã Giục Tượng",
             "MA_PHUONG_XA": 30889,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -511,7 +616,7 @@
             "MA_QH": 905,
             "PHUONG_XA": "Xã Vĩnh Hòa Hiệp",
             "MA_PHUONG_XA": 30892,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -520,7 +625,7 @@
             "MA_QH": 905,
             "PHUONG_XA": "Xã Vĩnh Hoà Phú",
             "MA_PHUONG_XA": 30893,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -529,7 +634,7 @@
             "MA_QH": 905,
             "PHUONG_XA": "Xã Minh Hòa",
             "MA_PHUONG_XA": 30895,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -538,7 +643,7 @@
             "MA_QH": 905,
             "PHUONG_XA": "Xã Bình An",
             "MA_PHUONG_XA": 30898,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -547,7 +652,7 @@
             "MA_QH": 905,
             "PHUONG_XA": "Xã Thạnh Lộc",
             "MA_PHUONG_XA": 30901,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -565,7 +670,7 @@
             "MA_QH": 906,
             "PHUONG_XA": "Xã Thạnh Hưng",
             "MA_PHUONG_XA": 30907,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -574,7 +679,7 @@
             "MA_QH": 906,
             "PHUONG_XA": "Xã Thạnh Phước",
             "MA_PHUONG_XA": 30910,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -583,7 +688,7 @@
             "MA_QH": 906,
             "PHUONG_XA": "Xã Thạnh Lộc",
             "MA_PHUONG_XA": 30913,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -592,7 +697,7 @@
             "MA_QH": 906,
             "PHUONG_XA": "Xã Thạnh Hòa",
             "MA_PHUONG_XA": 30916,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -601,7 +706,7 @@
             "MA_QH": 906,
             "PHUONG_XA": "Xã Thạnh Bình",
             "MA_PHUONG_XA": 30917,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -610,7 +715,7 @@
             "MA_QH": 906,
             "PHUONG_XA": "Xã Bàn Thạch",
             "MA_PHUONG_XA": 30919,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -619,7 +724,7 @@
             "MA_QH": 906,
             "PHUONG_XA": "Xã Bàn Tân Định",
             "MA_PHUONG_XA": 30922,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -628,7 +733,7 @@
             "MA_QH": 906,
             "PHUONG_XA": "Xã Ngọc Thành",
             "MA_PHUONG_XA": 30925,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -637,7 +742,7 @@
             "MA_QH": 906,
             "PHUONG_XA": "Xã Ngọc Chúc",
             "MA_PHUONG_XA": 30928,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -646,7 +751,7 @@
             "MA_QH": 906,
             "PHUONG_XA": "Xã Ngọc Thuận",
             "MA_PHUONG_XA": 30931,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -655,7 +760,7 @@
             "MA_QH": 906,
             "PHUONG_XA": "Xã Hòa Hưng",
             "MA_PHUONG_XA": 30934,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -664,7 +769,7 @@
             "MA_QH": 906,
             "PHUONG_XA": "Xã Hoà Lợi",
             "MA_PHUONG_XA": 30937,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -673,7 +778,7 @@
             "MA_QH": 906,
             "PHUONG_XA": "Xã Hoà An",
             "MA_PHUONG_XA": 30940,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -682,7 +787,7 @@
             "MA_QH": 906,
             "PHUONG_XA": "Xã Long Thạnh",
             "MA_PHUONG_XA": 30943,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -691,7 +796,7 @@
             "MA_QH": 906,
             "PHUONG_XA": "Xã Vĩnh Thạnh",
             "MA_PHUONG_XA": 30946,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -700,7 +805,7 @@
             "MA_QH": 906,
             "PHUONG_XA": "Xã Vĩnh Phú",
             "MA_PHUONG_XA": 30947,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -709,7 +814,7 @@
             "MA_QH": 906,
             "PHUONG_XA": "Xã Hòa Thuận",
             "MA_PHUONG_XA": 30949,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -718,7 +823,7 @@
             "MA_QH": 906,
             "PHUONG_XA": "Xã Ngọc Hoà",
             "MA_PHUONG_XA": 30950,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -736,7 +841,7 @@
             "MA_QH": 907,
             "PHUONG_XA": "Xã Vĩnh Hòa Hưng Bắc",
             "MA_PHUONG_XA": 30955,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -745,7 +850,7 @@
             "MA_QH": 907,
             "PHUONG_XA": "Xã Định Hòa",
             "MA_PHUONG_XA": 30958,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -754,7 +859,7 @@
             "MA_QH": 907,
             "PHUONG_XA": "Xã Thới Quản",
             "MA_PHUONG_XA": 30961,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -763,7 +868,7 @@
             "MA_QH": 907,
             "PHUONG_XA": "Xã Định An",
             "MA_PHUONG_XA": 30964,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -772,7 +877,7 @@
             "MA_QH": 907,
             "PHUONG_XA": "Xã Thủy Liễu",
             "MA_PHUONG_XA": 30967,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -781,7 +886,7 @@
             "MA_QH": 907,
             "PHUONG_XA": "Xã Vĩnh Hòa Hưng Nam",
             "MA_PHUONG_XA": 30970,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -790,7 +895,7 @@
             "MA_QH": 907,
             "PHUONG_XA": "Xã Vĩnh Phước A",
             "MA_PHUONG_XA": 30973,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -799,7 +904,7 @@
             "MA_QH": 907,
             "PHUONG_XA": "Xã Vĩnh Phước B",
             "MA_PHUONG_XA": 30976,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -808,7 +913,7 @@
             "MA_QH": 907,
             "PHUONG_XA": "Xã Vĩnh Tuy",
             "MA_PHUONG_XA": 30979,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -817,7 +922,7 @@
             "MA_QH": 907,
             "PHUONG_XA": "Xã Vĩnh Thắng",
             "MA_PHUONG_XA": 30982,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -835,7 +940,7 @@
             "MA_QH": 908,
             "PHUONG_XA": "Xã Tây Yên",
             "MA_PHUONG_XA": 30988,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -844,7 +949,7 @@
             "MA_QH": 908,
             "PHUONG_XA": "Xã Tây Yên A",
             "MA_PHUONG_XA": 30991,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -853,7 +958,7 @@
             "MA_QH": 908,
             "PHUONG_XA": "Xã Nam Yên",
             "MA_PHUONG_XA": 30994,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -862,7 +967,7 @@
             "MA_QH": 908,
             "PHUONG_XA": "Xã Hưng Yên",
             "MA_PHUONG_XA": 30997,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -871,7 +976,7 @@
             "MA_QH": 908,
             "PHUONG_XA": "Xã Nam Thái",
             "MA_PHUONG_XA": 31000,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -880,7 +985,7 @@
             "MA_QH": 908,
             "PHUONG_XA": "Xã Nam Thái A",
             "MA_PHUONG_XA": 31003,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -889,7 +994,7 @@
             "MA_QH": 908,
             "PHUONG_XA": "Xã Đông Thái",
             "MA_PHUONG_XA": 31006,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -898,7 +1003,7 @@
             "MA_QH": 908,
             "PHUONG_XA": "Xã Đông Yên",
             "MA_PHUONG_XA": 31009,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -916,7 +1021,7 @@
             "MA_QH": 909,
             "PHUONG_XA": "Xã Thuận Hoà",
             "MA_PHUONG_XA": 31021,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -925,7 +1030,7 @@
             "MA_QH": 909,
             "PHUONG_XA": "Xã Đông Hòa",
             "MA_PHUONG_XA": 31024,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -934,7 +1039,7 @@
             "MA_QH": 909,
             "PHUONG_XA": "Xã Đông Thạnh",
             "MA_PHUONG_XA": 31030,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -943,7 +1048,7 @@
             "MA_QH": 909,
             "PHUONG_XA": "Xã Tân Thạnh",
             "MA_PHUONG_XA": 31031,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -952,7 +1057,7 @@
             "MA_QH": 909,
             "PHUONG_XA": "Xã Đông Hưng",
             "MA_PHUONG_XA": 31033,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -961,7 +1066,7 @@
             "MA_QH": 909,
             "PHUONG_XA": "Xã Đông Hưng A",
             "MA_PHUONG_XA": 31036,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -970,7 +1075,7 @@
             "MA_QH": 909,
             "PHUONG_XA": "Xã Đông Hưng B",
             "MA_PHUONG_XA": 31039,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -979,7 +1084,7 @@
             "MA_QH": 909,
             "PHUONG_XA": "Xã Vân Khánh",
             "MA_PHUONG_XA": 31042,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -988,7 +1093,7 @@
             "MA_QH": 909,
             "PHUONG_XA": "Xã Vân Khánh Đông",
             "MA_PHUONG_XA": 31045,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -997,7 +1102,7 @@
             "MA_QH": 909,
             "PHUONG_XA": "Xã Vân Khánh Tây",
             "MA_PHUONG_XA": 31048,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -1015,7 +1120,7 @@
             "MA_QH": 910,
             "PHUONG_XA": "Xã Vĩnh Bình Bắc",
             "MA_PHUONG_XA": 31060,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -1024,7 +1129,7 @@
             "MA_QH": 910,
             "PHUONG_XA": "Xã Vĩnh Bình Nam",
             "MA_PHUONG_XA": 31063,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -1033,7 +1138,7 @@
             "MA_QH": 910,
             "PHUONG_XA": "Xã Bình Minh",
             "MA_PHUONG_XA": 31064,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -1042,7 +1147,7 @@
             "MA_QH": 910,
             "PHUONG_XA": "Xã Vĩnh Thuận",
             "MA_PHUONG_XA": 31069,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -1051,7 +1156,7 @@
             "MA_QH": 910,
             "PHUONG_XA": "Xã Tân Thuận",
             "MA_PHUONG_XA": 31072,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -1060,7 +1165,7 @@
             "MA_QH": 910,
             "PHUONG_XA": "Xã Phong Đông",
             "MA_PHUONG_XA": 31074,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -1069,7 +1174,7 @@
             "MA_QH": 910,
             "PHUONG_XA": "Xã Vĩnh Phong",
             "MA_PHUONG_XA": 31075,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -1078,7 +1183,7 @@
             "MA_QH": 911,
             "PHUONG_XA": "Phường Dương Đông",
             "MA_PHUONG_XA": 31078,
-            "CAP_PHUONG_XA": "Phường"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -1087,7 +1192,7 @@
             "MA_QH": 911,
             "PHUONG_XA": "Phường An Thới",
             "MA_PHUONG_XA": 31081,
-            "CAP_PHUONG_XA": "Phường"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -1096,7 +1201,7 @@
             "MA_QH": 911,
             "PHUONG_XA": "Xã Cửa Cạn",
             "MA_PHUONG_XA": 31084,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -1105,7 +1210,7 @@
             "MA_QH": 911,
             "PHUONG_XA": "Xã Gành Dầu",
             "MA_PHUONG_XA": 31087,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -1114,7 +1219,7 @@
             "MA_QH": 911,
             "PHUONG_XA": "Xã Cửa Dương",
             "MA_PHUONG_XA": 31090,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -1123,7 +1228,7 @@
             "MA_QH": 911,
             "PHUONG_XA": "Xã Hàm Ninh",
             "MA_PHUONG_XA": 31093,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -1132,7 +1237,7 @@
             "MA_QH": 911,
             "PHUONG_XA": "Xã Dương Tơ",
             "MA_PHUONG_XA": 31096,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -1141,7 +1246,7 @@
             "MA_QH": 911,
             "PHUONG_XA": "Xã Bãi Thơm",
             "MA_PHUONG_XA": 31102,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -1150,7 +1255,7 @@
             "MA_QH": 911,
             "PHUONG_XA": "Xã Thổ Châu",
             "MA_PHUONG_XA": 31105,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -1159,7 +1264,7 @@
             "MA_QH": 912,
             "PHUONG_XA": "Xã Hòn Tre",
             "MA_PHUONG_XA": 31108,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -1168,7 +1273,7 @@
             "MA_QH": 912,
             "PHUONG_XA": "Xã Lại Sơn",
             "MA_PHUONG_XA": 31111,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -1177,7 +1282,7 @@
             "MA_QH": 912,
             "PHUONG_XA": "Xã An Sơn",
             "MA_PHUONG_XA": 31114,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -1186,7 +1291,7 @@
             "MA_QH": 912,
             "PHUONG_XA": "Xã Nam Du",
             "MA_PHUONG_XA": 31115,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -1195,7 +1300,7 @@
             "MA_QH": 913,
             "PHUONG_XA": "Xã Thạnh Yên",
             "MA_PHUONG_XA": 31012,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -1204,7 +1309,7 @@
             "MA_QH": 913,
             "PHUONG_XA": "Xã Thạnh Yên A",
             "MA_PHUONG_XA": 31015,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -1213,7 +1318,7 @@
             "MA_QH": 913,
             "PHUONG_XA": "Xã An Minh Bắc",
             "MA_PHUONG_XA": 31027,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -1222,7 +1327,7 @@
             "MA_QH": 913,
             "PHUONG_XA": "Xã Vĩnh Hòa",
             "MA_PHUONG_XA": 31054,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -1231,7 +1336,7 @@
             "MA_QH": 913,
             "PHUONG_XA": "Xã Hoà Chánh",
             "MA_PHUONG_XA": 31057,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -1240,7 +1345,7 @@
             "MA_QH": 913,
             "PHUONG_XA": "Xã Minh Thuận",
             "MA_PHUONG_XA": 31066,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -1249,7 +1354,7 @@
             "MA_QH": 914,
             "PHUONG_XA": "Xã Vĩnh Phú",
             "MA_PHUONG_XA": 30791,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -1258,7 +1363,7 @@
             "MA_QH": 914,
             "PHUONG_XA": "Xã Vĩnh Điều",
             "MA_PHUONG_XA": 30793,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -1267,7 +1372,7 @@
             "MA_QH": 914,
             "PHUONG_XA": "Xã Tân Khánh Hòa",
             "MA_PHUONG_XA": 30796,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -1276,7 +1381,7 @@
             "MA_QH": 914,
             "PHUONG_XA": "Xã Phú Lợi",
             "MA_PHUONG_XA": 30797,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         },
         {
             "TINH_THANH_PHO": "Tỉnh Kiên Giang",
@@ -1285,7 +1390,7 @@
             "MA_QH": 914,
             "PHUONG_XA": "Xã Phú Mỹ",
             "MA_PHUONG_XA": 30799,
-            "CAP_PHUONG_XA": "Xã"
+            "CAP_PHUONG_XA": "XA"
         }
     ]
 }
